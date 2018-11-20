@@ -11,6 +11,8 @@ public class guiController
 	public guiController()
 	{
 		myDuck = new Duck();
+		
+		appFrame = new FirstFrame(this);
 	}
 
 	public void start()
