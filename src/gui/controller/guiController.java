@@ -1,6 +1,7 @@
 package gui.controller;
 
 import gui.model.Duck;
+
 import gui.view.FirstFrame;
 
 public class guiController

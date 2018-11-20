@@ -10,6 +10,7 @@ public class FirstFrame extends JFrame
 	
 	public FirstFrame(guiController appController)
 	{
+		
 		super();
 		this.appController = appController;
 		this.appPanel = new FirstPanel(appController);
